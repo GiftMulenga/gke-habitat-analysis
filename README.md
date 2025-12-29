@@ -40,6 +40,9 @@ The analysis framework addresses three research objectives:
 ├── 07_transition_matrix_analysis.py             # Transition probability analysis
 ├── 08_ca_markov_scenarios.py                    # Multi-scenario projections
 ├── 09_susceptibility_by_zone.py                 # Zone-based susceptibility analysis
+├── 10_gma_visualization.py                      # GMA land cover change visualizations
+├── 11_knp_gradient_visualization.py             # KNP boundary gradient analysis
+├── 12_net_change_visualization.py               # Decadal net change visualizations
 └── README.md                                    # This file
 ```
 
