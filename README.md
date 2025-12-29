@@ -262,7 +262,7 @@ data/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[username]/gke-habitat-analysis.git
+   git clone https://github.com/GiftMulenga/gke-habitat-analysis.git
    cd gke-habitat-analysis
    ```
 
